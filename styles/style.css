@@ -133,6 +133,10 @@ body {
         justify-content: center;
     }
 
+    .cabecalho__menu__link {
+        font-size: 1.2rem;
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
